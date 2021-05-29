@@ -60,7 +60,7 @@ In addition, with a standardization of terms, techniques are facilitated. It is 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Free License. See `LICENSE` for more information.
 
 
 
